@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "POP SONG",
+  "base_artist": "米津玄師",
+  "createdAt": "2025-12-14T06:07:36.820871Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "POP SONG",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/01_POP_SONG_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dirty Little Pop Song",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/02_Dirty_Little_Pop_Song_Aqua.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pop Song",
+      "artist": "Baths",
+      "has_synced": false,
+      "path": "select/03_Pop_Song_Baths.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pop Song",
+      "artist": "cLOUDDEAD",
+      "has_synced": false,
+      "path": "select/04_Pop_Song_cLOUDDEAD.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pop Song",
+      "artist": "Porridge Radio",
+      "has_synced": true,
+      "path": "select/05_Pop_Song_Porridge_Radio.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Glorious Pop Song",
+      "artist": "Skunk Anansie",
+      "has_synced": true,
+      "path": "select/06_Glorious_Pop_Song_Skunk_Anansie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mike's Pop Song (Demo)",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/07_Mike's_Pop_Song_(Demo)_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pop Song 89",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/08_Pop_Song_89_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pop Song for Us Rejects",
+      "artist": "Silverchair",
+      "has_synced": true,
+      "path": "select/09_Pop_Song_for_Us_Rejects_Silverchair.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "POP SONG",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/10_POP_SONG_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "POP SONG",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/11_POP_SONG_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pervert Pop Song (Castigame)",
+      "artist": "Plastilina Mosh",
+      "has_synced": true,
+      "path": "select/12_Pervert_Pop_Song_(Castigame)_Plastilina_Mosh.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pop Song 89 - Acoustic Version",
+      "artist": "R.E.M.",
+      "has_synced": false,
+      "path": "select/13_Pop_Song_89_-_Acoustic_Version_R.E.M..txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pop Song 89 (Live)",
+      "artist": "R.E.M.",
+      "has_synced": false,
+      "path": "select/14_Pop_Song_89_(Live)_R.E.M..txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pop Song 89",
+      "artist": "Motion City Soundtrack",
+      "has_synced": true,
+      "path": "select/15_Pop_Song_89_Motion_City_Soundtrack.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Pop Song",
+      "artist": "Starfucker",
+      "has_synced": true,
+      "path": "select/16_Pop_Song_Starfucker.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Pop Song 89 (Remastered)",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/17_Pop_Song_89_(Remastered)_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "A Pop Song",
+      "artist": "Wreckless Eric",
+      "has_synced": false,
+      "path": "select/18_A_Pop_Song_Wreckless_Eric.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "POP SONG",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_POP_SONG_米津玄師.txt"
+    }
+  ]
+}
